@@ -19,8 +19,8 @@ athletes. Mainly, I was interested in the following questions:
 The analysis is contained in a single notebook olympics.ipynb. The data set is also provided in /data but is taken from Kaggle (see below).
 
 ## Results
-My findings are presented in a blogpost on [Medium](https://medium.com/@lars.palzer/when-bigger-is-really-better-1628c128407a)
+My findings are presented in a blogpost on [Medium](https://medium.com/@lars.palzer/when-bigger-is-really-better-1628c128407a).
 
-## [Licensing, Authors, and Acknowledgements]
+## Licensing, Authors, and Acknowledgements
 The data set used here is provided on [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 Feel free to use my notebook as you wish!
