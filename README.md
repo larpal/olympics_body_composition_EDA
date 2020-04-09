@@ -2,8 +2,8 @@
 
 ##### Table of Contents  
 [Project Motivation](#project-Motivation)  
-[File Description](#file-description)  
 [Results](#results)  
+[File Description](#file-description)  
 [Libraries and Dependencies](#libraries-and-Dependencies)  
 [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)  
  
@@ -19,7 +19,7 @@ athletes. Mainly, I was interested in the following questions:
 My analysis focuses on the sports of basketball, volleyball, handball and ice hockey.
 
 ## Results
-My findings are presented in a blogpost on [Medium](https://medium.com/@lars.palzer/when-bigger-is-really-better-1628c128407a).
+My findings are presented in a [blogpost on Medium](https://medium.com/@lars.palzer/when-bigger-is-really-better-1628c128407a).
 For a quick summary, here are the main findings:
 1. *Height matters!* The average athlete in basketball, volleyball, handball and ice hockey has become significantly taller over time. 
 Interestingly, this development has somewhat saturated since the late 90s in basketball, handball and ice hockey.
@@ -27,7 +27,7 @@ Interestingly, this development has somewhat saturated since the late 90s in bas
 3. *Physical dominance matters!* We looked at how gold medalists compared to the average athlete in a given year and found that in all sports, the gold medalists tend to be taller and/or more muscular than the average. This observation is particularly strong in basketball.
 
 ## File Description
-The analysis is contained in a single notebook olympics.ipynb. The data set is also provided in /data but is taken from Kaggle (see below).
+The analysis is contained in a single Python 3 notebook *olympics.ipynb*. The data set is also provided in the *data* folder but is taken from Kaggle (see below).
 
 ## Libraries and Dependencies
 The notebook uses the following Python libraries:
