@@ -5,7 +5,7 @@
 [File Description](#file-description)  
 [Results](#results)  
 [Libraries and Dependencies](#libraries-and-Dependencies)  
-[Licensing, Authors, and Acknowledgements](#licensing,-Authors,-and-acknowledgements)  
+[Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)  
  
 ## Project Motivation
 For this project, I was interested in investigating body composition changes of Olympic
