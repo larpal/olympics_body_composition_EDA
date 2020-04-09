@@ -37,5 +37,5 @@ The notebook uses the following Python libraries:
 * [seaborn](https://seaborn.pydata.org)
 
 ## Licensing, Authors, and Acknowledgements
-The analysis is based on the "120 years of Olympic history: athletes and results" data set taken from [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
+The analysis is based on the *120 years of Olympic history: athletes and results* data set taken from [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 Feel free to use my notebook as you wish!
