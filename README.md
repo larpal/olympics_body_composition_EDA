@@ -8,7 +8,7 @@
 [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)  
  
 ## Project Motivation
-For this project, I was interested in investigating body composition changes of Olympic
+In this project, I was interested in investigating body composition changes of Olympic
 athletes over time. For this purpose, I analyzed a data set of 120 years of olympic
 athletes. Mainly, I was interested in the following questions:
 
