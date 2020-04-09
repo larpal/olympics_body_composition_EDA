@@ -8,6 +8,7 @@
 [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)  
  
 ## Project Motivation
+This project was done within the framework of the [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) offered by Udacity.
 In this project, I was interested in investigating body composition changes of Olympic
 athletes over time. For this purpose, I analyzed a data set of 120 years of olympic
 athletes. Mainly, I was interested in the following questions:
